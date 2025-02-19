@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|c:\\users\\user\\uca\\19_02_2025\\login and register\\login and register\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50FDF6DF-1C78-4B93-9EE2-E9AB5FE0EB1D}|login and register\\login and register.csproj|solutionrelative:login and register\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "login and register\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "login and register\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T11:30:29.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "login and register\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "login and register\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T11:25:39.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "login and register\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "login and register\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T09:43:57.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "login and register\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "login and register\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-19T09:43:48.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "login and register\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "login and register\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAiwGoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:26:30.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "login and register\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "login and register\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T09:06:01.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "login and register\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "login and register\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T04:57:45.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Program.cs",
+              "RelativeDocumentMoniker": "login and register\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Program.cs",
+              "RelativeToolTip": "login and register\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:37:56.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "login and register\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "login and register\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:08:04.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "login and register\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "login and register\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:33:04.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "login and register\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "login and register\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T04:27:52.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "login and register\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeToolTip": "login and register\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T05:03:24.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "login and register\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\UCA\\19_02_2025\\login and register\\login and register\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "login and register\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T08:40:54.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
