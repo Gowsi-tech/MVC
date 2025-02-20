@@ -102,26 +102,46 @@ namespace login_and_register.Areas.Identity.Pages.Account
             ReturnUrl = returnUrl;
         }
 
-        public async Task<IActionResult> OnPostAsync(string? returnUrl = null)
-        {
-            returnUrl ??= Url.Content("~/Home"); // Redirect to Welcome Page
+        //public async Task<IActionResult> OnPostAsync(string? returnUrl = null)
+        //{
+        //    returnUrl ??= Url.Content("~/Home"); // Redirect to Welcome Page
 
+        //    if (ModelState.IsValid)
+        //    {
+        //        var result = await _signInManager.PasswordSignInAsync(Input.Email, Input.Password, Input.RememberMe, lockoutOnFailure: false);
+
+        //        if (result.Succeeded)
+        //        {
+        //            return LocalRedirect(returnUrl);
+        //        }
+        //        else
+        //        {
+        //            ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+        //            return Page();
+        //        }
+        //    }
+
+        //    return Page();
+        //}
+
+        public async Task<IActionResult> Login( string? returnUrl = null)
+        {
             if (ModelState.IsValid)
             {
-                var result = await _signInManager.PasswordSignInAsync(Input.Email, Input.Password, Input.RememberMe, lockoutOnFailure: false);
+                var result = await _signInManager.PasswordSignInAsync(Input.Email, Input.Password, Input.RememberMe, false);
 
                 if (result.Succeeded)
                 {
-                    return LocalRedirect(returnUrl);
+                    // If a returnUrl exists, redirect there, else redirect to home page
+                    return Redirect(returnUrl ?? Url.Action("Index", "Home"));
                 }
-                else
-                {
-                    ModelState.AddModelError(string.Empty, "Invalid login attempt.");
-                    return Page();
-                }
+
+                ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+                return Page();
             }
 
             return Page();
         }
+
     }
 }
